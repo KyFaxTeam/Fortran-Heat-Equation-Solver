@@ -12,11 +12,6 @@ __pycache__/
 results/
 
 
-# Fichiers de visualisation individuels
-# (au cas où ils sont générés hors des dossiers ci-dessus)
-*.png
-*.gif
-*.mp4
 
 # Fichiers compilés Fortran
 *.o
