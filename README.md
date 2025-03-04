@@ -174,7 +174,7 @@ Les contributions sont les bienvenues ! Si vous souhaitez améliorer le code ou 
 
 ## Auteurs
 
-- [AÏNA Yanel, AHOUANYE Elonm ()] - Auteurs principaux
+- [AÏNA Yanel, AHOUANYE Elonm](https://ky-blog.vercel.app/about) - Auteurs principaux
 - Autres contributeurs : ...
 
 ## Licence
