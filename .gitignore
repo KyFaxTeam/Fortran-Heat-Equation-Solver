@@ -10,7 +10,7 @@ __pycache__/
 
 # Fichiers générés par les simulations
 results/
-viz/
+
 
 # Fichiers de visualisation individuels
 # (au cas où ils sont générés hors des dossiers ci-dessus)
