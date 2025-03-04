@@ -1,0 +1,29 @@
+# Environnement virtuel
+venv/
+env/
+ENV/
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers générés par les simulations
+results/
+viz/
+
+# Fichiers de visualisation individuels
+# (au cas où ils sont générés hors des dossiers ci-dessus)
+*.png
+*.gif
+*.mp4
+
+# Fichiers compilés Fortran
+*.o
+*.mod
+*.exe
+heat
+
+# Fichiers système
+.DS_Store
+Thumbs.db
